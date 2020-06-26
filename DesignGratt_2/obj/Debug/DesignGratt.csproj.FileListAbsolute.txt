@@ -1,0 +1,108 @@
+C:\Users\_theSheep\Desktop\DesignGratt\bin\Debug\DesignGratt.exe.config
+C:\Users\_theSheep\Desktop\DesignGratt\bin\Debug\DesignGratt.exe
+C:\Users\_theSheep\Desktop\DesignGratt\bin\Debug\DesignGratt.pdb
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.Gratt.resources
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.csproj.CoreCompileInputs.cache
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.exe
+C:\Users\_theSheep\Desktop\DesignGratt\obj\Debug\DesignGratt.pdb
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.Gratt.resources
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.Properties.Resources.resources
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.exe
+D:\LT tren Windows\DesignGratt\obj\Debug\DesignGratt.pdb
+D:\LT tren Windows\DesignGratt\bin\Debug\DesignGratt.exe.config
+D:\LT tren Windows\DesignGratt\bin\Debug\DesignGratt.exe
+D:\LT tren Windows\DesignGratt\bin\Debug\DesignGratt.pdb
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.pdb
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Gratt.resources
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.CoreCompileInputs.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.exe
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.pdb
+C:\Users\_theSheep\Downloads\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.DetailForm.resources
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.pdb
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.DetailForm.resources
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Gratt.resources
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.exe
+D:\LT tren Windows\New folder\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.pdb
+C:\Win\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+C:\Win\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.exe
+C:\Win\DesignGratt_2\DesignGratt_2\bin\Debug\DesignGratt.pdb
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.DetailForm.resources
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Gratt.resources
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.CoreCompileInputs.cache
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.exe
+C:\Win\DesignGratt_2\DesignGratt_2\obj\Debug\DesignGratt.pdb
+C:\Users\Asus\Desktop\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+C:\Users\Asus\Desktop\DesignGratt_2\bin\Debug\DesignGratt.exe
+C:\Users\Asus\Desktop\DesignGratt_2\bin\Debug\DesignGratt.pdb
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.DetailForm.resources
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.Gratt.resources
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.exe
+C:\Users\Asus\Desktop\DesignGratt_2\obj\Debug\DesignGratt.pdb
+D:\luu bai\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+D:\luu bai\DesignGratt_2\bin\Debug\DesignGratt.exe
+D:\luu bai\DesignGratt_2\bin\Debug\DesignGratt.pdb
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.Views.DetailForm.resources
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.Views.Gratt.resources
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.csproj.CoreCompileInputs.cache
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.exe
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.pdb
+D:\luu bai\DesignGratt_2\bin\Debug\EntityFramework.dll
+D:\luu bai\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.dll
+D:\luu bai\DesignGratt_2\bin\Debug\EntityFramework.xml
+D:\luu bai\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.xml
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.csproj.CopyComplete
+D:\luu bai\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.Views.DetailForm.resources
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.Views.Gratt.resources
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.exe
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.pdb
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\DesignGratt.exe
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\DesignGratt.pdb
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\window\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\window\DesignGratt_2\obj\Debug\DesignGratt.csproj.CopyComplete
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\DesignGratt.exe.config
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\DesignGratt.exe
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\DesignGratt.pdb
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\EntityFramework.dll
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\EntityFramework.xml
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.csprojAssemblyReference.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.Views.DetailForm.resources
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.Views.Gratt.resources
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.Properties.Resources.resources
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.GenerateResource.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.CoreCompileInputs.cache
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.csproj.CopyComplete
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.exe
+C:\Users\_theSheep\Downloads\DesignGratt_2(DONE)_2\DesignGratt_2\obj\Debug\DesignGratt.pdb
