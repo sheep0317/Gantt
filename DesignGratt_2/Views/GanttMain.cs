@@ -329,7 +329,7 @@ namespace DesignGratt.Views
             }
             catch
             {
-                index = 0;
+                return;
             }
             int ID = taskWork[index].ID;
             TaskWork task = taskWork[index];
